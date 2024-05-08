@@ -1,3 +1,5 @@
+* In this project I uploaded my project to my github account, then I containarized my project using Docker, after that I uploaded the containarized project to the cloud using AWS Elastic Beanstalk
+
 First off all we have to upload our app to github
 -
 ![Screenshot 2024-05-05 152022](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/ffa38a12-a205-418f-b2a3-cbc6e1a5d97b)
