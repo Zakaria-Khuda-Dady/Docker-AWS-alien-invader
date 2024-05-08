@@ -6,24 +6,17 @@ Then create our docker file
 -
 ![Screenshot 2024-05-05 152112](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/2e631954-8541-4c36-8ace-84c14911f365)
 -
--
 Then we build our docker image // docker build -t appName // this creates a docker image in the current directory
--
 -
 ![Screenshot 2024-05-05 152242](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/44bc4a62-5903-4ab6-a670-c612b731e99a)
 -
--
 ![Screenshot 2024-05-05 152148](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/bb93f37f-6ae7-4756-9d00-e313231f9934)
--
 -
 Then we build and run our docker container 
 -
--
 ![Screenshot 2024-05-05 152316](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/b3ecd3ac-2e04-42f1-83f5-00e22766f050)
 -
--
 After we are finished with the project and created a docker container, we will Deploy the containerized Docker project on AWS cloud using Amazon Beanstalk
--
 -
 ![Screenshot 2024-05-05 145410](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/60fa80f2-f033-4806-aa3c-daa3737ead07)
 -
