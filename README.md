@@ -1,4 +1,4 @@
-In this project I uploaded my project to my github account, then I containarized my project using Docker, after that I uploaded the containarized project to the cloud using AWS Elastic Beanstalk
+In this project, I uploaded my project to my github account, then I containarized my project using Docker, after that I uploaded the containarized project to the cloud using the AWS Elastic Beanstalk
 
 
 
