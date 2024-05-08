@@ -1,11 +1,8 @@
 First off all we have to upload our app to github
 -
--
 ![Screenshot 2024-05-05 152022](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/ffa38a12-a205-418f-b2a3-cbc6e1a5d97b)
 -
--
 Then create our docker file
--
 -
 ![Screenshot 2024-05-05 152112](https://github.com/Zakaria-Khuda-Dady/Docker-AWS-alien-invader/assets/148376197/2e631954-8541-4c36-8ace-84c14911f365)
 -
